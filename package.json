@@ -11,6 +11,10 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-        "express": "^5.1.0"
+        "express": "^5.1.0",
+        "input": "^1.0.1",
+        "kahoot.js-updated": "^3.404.1",
+        "prompt-sync": "^4.2.0",
+        "random-name": "^0.1.2"
     }
 }
